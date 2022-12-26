@@ -1,5 +1,5 @@
 # I'm starting a game with asteroids and I use the turtle python library.
-#
+#Video_Game with turtle 🐢 Python
 import os                 # for os.path
 import random            # for random.choice
 import time              # for time.sleep
